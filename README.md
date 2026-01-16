@@ -1,5 +1,5 @@
-@ -1,5 +1,26 @@
-# Welcome to GitHub Desktop!
+
+# Welcome to File Based Student Club Management System
 This is a simple C program that manages student club member records using file handling. Each member’s details are stored in a separate text file named after their admission number.
 Features
 Add a new club member
